@@ -1,0 +1,126 @@
+Halina Monkiewicz, Graduate Program Advisor, Room EV 3.152, Tel: (514) 848-2424 Ext.
+3043 (halina@cs.concordia.ca)
+abc
+
+Students must take a minimum of 45 credits of course work consisting of 20 credits of core courses (COMP 6231, COMP 6461, COMP 6521, COMP 6651, and SOEN 6441) and 25 credits of electives including a minimum of 16 credits from Topic Areas C01 through C07. The electives may include ENCS 6931 or COMP 6961, and a maximum of 8 credits chosen from computer science courses at the 6000 level marked with a (*); 4 credits chosen from COMP 5261 and COMP 5421; and 8 credits from Topic Areas C08 (Topics in Software Engineering), C09 (Software Engineering) and C12 (Cognate Disciplines).
+
+Compulsory Courses MACompSc.---:
+COMP 6231*** Distributed System Design by Jaykumar(Lecture & Lab)
+COMP 6461*** Computer Networks and Protocols by A. Hanna(Lecture & Lab)---http://concordia.soujeri.org/-
+COMP 6521*** ADVANCED DATABASE TECHNOLOGY AND APPLICATIONS by G.K Grahne(Lecture & Lab)
+COMP 6651*** ALGORITHM DESIGN TECHNIQUES by Brigitte Jaumard(Lecture)
+SOEN 6441*** ADV. PROG. PRACTICES by joey Paquet (Lecture and Lab)
+
+
+List of Courses in Computer Science by Topic Areas
+C01 - DEVELOPMENTS IN COMPUTER SCIENCE
+
+COMP 691 Topics in Computer Science I 
+COMP 791 Topics in Computer Science II
+
+C02 - PARALLEL AND DISTRIBUTED SYSTEMS
+
+COMP 6231 Distributed System Design 
+COMP 6281 Parallel Programming (*)
+COMP 7241 Parallel Algorithms and Architectures 
+COMP 7251 Mobile Computing and Wireless Networks
+
+C03 - IMAGE PROCESSING/PATTERN RECOGNITION AND GRAPHICS
+
+COMP 6311 Computer Animation (*)
+COMP 6321 Machine Learning
+COMP 6711 Computational Geometry
+COMP 6731 Pattern Recognition (*)
+COMP 6761 Advanced 3D Graphics for Game Programming
+COMP 6771 Image Processing (*)
+COMP 7661 Advanced Rendering and Animation
+COMP 7751 Advanced Pattern Recognition
+COMP 7781 Advanced Image Processing
+
+C04 - SOFTWARE SYSTEMS AND LANGUAGES
+
+COMP 6411 Comparative Study of Programming Languages
+COMP 6421 Compiler Design (*) 
+COMP 6461 Computer Networks and Protocols 
+COMP 7451 Semantics of Programming Languages
+
+C05 - INFORMATION PROCESSING AND MANAGEMENT
+
+COMP 6521 Advanced Database Technology and Applications
+COMP 6591 Introduction to Knowledge-Base Systems 
+COMP 6811 Bioinformatics Algorithms
+COMP 6821 Bioinformatics Databases and Systems
+COMP 7531 Database Systems Principles
+
+C06 - SCIENTIFIC COMPUTATION AND ALGORITHMS
+
+COMP 6351 Topics in Scientific Computation
+COMP 6361 Numerical Analysis of Nonlinear Equations
+COMP 6621 Discrete Mathematics of Paul Erdös
+COMP 6641 Theory of Computation 
+COMP 6651 Algorithm Design Techniques 
+COMP 6661 Combinatorial Algorithms 
+COMP 7521 Cryptography and Data Security
+COMP 7651 Advanced Analysis of Algorithms
+
+C07 - ARTIFICIAL INTELLIGENCE AND HUMAN-MACHINE COMMUNICATION
+
+COMP 6531 Foundations of the Semantic Web
+COMP 6721 Artificial Intelligence (*) 
+COMP 6741 Intelligent Systems (*) 
+COMP 6751 Natural Language Analysis
+COMP 6781 Statistical Natural Language Processing 
+COMP 6791 Information Retrieval (*)
+
+C08 - DEVELOPMENTS IN SOFTWARE ENGINEERING
+
+SOEN 691 Topics in Software Engineering I
+SOEN 791 Topics in Software Engineering II
+
+C09 - SOFTWARE ENGINEERING
+
+SOEN 6011 Software Engineering Development Processes 
+SOEN 6311 Formal Methods (*)
+SOEN 6431 Software Comprehension and Maintenance 
+SOEN 6441 Advanced Programming Practices 
+SOEN 6461 Software Design Methodologies
+SOEN 6471 Advanced Software Architectures
+SOEN 6481 Software Systems Requirements Specification 
+SOEN 6611 Software Measurement
+SOEN 6751 Human Computer Interface Design
+SOEN 6761 Multimedia Computing 
+SOEN 6841 Software Project Management
+SOEN 6861 Services Computing: Foundations, Design and Implementations
+SOEN 6951 Software Engineering Case Study 
+SOEN 7481 Software Verification and Testing 
+SOEN 7761 Intelligent User Interfaces
+
+C10 - INDUSTRIAL EXPERIENCE, SEMINAR AND THESIS
+
+COMP 6961 Graduate Seminar in Computer Science (1 credit)
+COMP 7941 Master’s Research and Thesis (29 credits)
+ENCS 6931 Industrial Stage and Training (9 credits)
+SOEN 7941 Master’s Research and Thesis (29 credits)
+
+C11 - DOCTORAL SEMINAR, RESEARCH, AND THESIS
+
+ENCS 8011 PhD Seminar (2 credits)
+ENCS 8511 Doctoral Research Proposal (6 credits)
+COMP 8901 Doctoral Research and Thesis (70 credits)
+SOEN 8901 Doctoral Research and Thesis (70 credits)
+ENCS 8501 Comprehensive Examination 
+Doctoral students must begin work on ENCS 8501 within 12 (24) months after the first registration as a full-time (part-time) student in a PhD program. This course is graded on a pass/fail basis and has no credit value. For purposes of registration, this work will be designated as ENCS 8501.
+
+C12 - COGNATE DISCIPLINES
+
+Students in a master’s program may take courses from Engineering Topic Areas E10, E42, E66, E68 and E70 for credit and also from the course list below, provided that prerequisite requirements are met:
+
+COEN 7311 Protocol Design & Validation 
+ENCS 6021 Engineering Analysis II 
+ENCS 6161 Probability and Stochastic Processes 
+ENCS 6181 Optimization Techniques (*)
+
+Artictectural styles
+software matrix
+
+
