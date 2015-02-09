@@ -1,6 +1,6 @@
 Halina Monkiewicz, Graduate Program Advisor, Room EV 3.152, Tel: (514) 848-2424 Ext.
 3043 (halina@cs.concordia.ca)
-abc
+Hello github!
 
 Students must take a minimum of 45 credits of course work consisting of 20 credits of core courses (COMP 6231, COMP 6461, COMP 6521, COMP 6651, and SOEN 6441) and 25 credits of electives including a minimum of 16 credits from Topic Areas C01 through C07. The electives may include ENCS 6931 or COMP 6961, and a maximum of 8 credits chosen from computer science courses at the 6000 level marked with a (*); 4 credits chosen from COMP 5261 and COMP 5421; and 8 credits from Topic Areas C08 (Topics in Software Engineering), C09 (Software Engineering) and C12 (Cognate Disciplines).
 
